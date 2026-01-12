@@ -1,0 +1,9 @@
+4_5670.py:18: error: "list" is not subscriptable, use "typing.List" instead  [misc]
+4_5670.py:22: error: "list" is not subscriptable  [misc]
+4_5670.py:22: error: "list" is not subscriptable, use "typing.List" instead  [misc]
+4_5670.py:66: error: Incompatible types in assignment (expression has type "None", variable has type "int")  [assignment]
+4_3080.py:18: error: "list" is not subscriptable, use "typing.List" instead  [misc]
+4_3080.py:22: error: "list" is not subscriptable  [misc]
+4_3080.py:22: error: "list" is not subscriptable, use "typing.List" instead  [misc]
+5_17408.py:32: error: "tuple" is not subscriptable  [misc]
+Found 8 errors in 3 files (checked 10 source files)
